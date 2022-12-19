@@ -1,9 +1,13 @@
 .App {
-  font-family: sans-serif;
+  font-family: "Lucida Sans", "Lucida Sans Regular";
   text-align: center;
 }
 
 input{
   height: 6vh;
-  width: 80%;
+  width: 50%;
+}
+
+* {
+  background-color: lightblue;
 }
