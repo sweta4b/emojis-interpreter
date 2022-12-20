@@ -5,8 +5,8 @@ Emoji-interpreter app created with CodeSandbox using reactJs, html, css.
 Browse your emoji by name. It translate your plain text into emoji.
 * here is the link https://tmf9bb.csb.app/
 
-### how it works
-* Enter the emoji name, Or click on any emoji name.
+### How it works
+* Enter the emoji name, or click on any emoji name.
 * The emoji will shown below the search bar.<br/>
 
    ![image](https://user-images.githubusercontent.com/110299602/208474408-3d6161a0-8c7d-4a64-9a18-103b25c37106.png)
