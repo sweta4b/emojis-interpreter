@@ -1,13 +1,15 @@
 # emojis-interpreter
-Emoji-interpreter app created with CodeSandbox using reactJs, html, css.
+
+## Tech Stack
+This app created with CodeSandbox using ReactJS, HTML and CSS.
 
 ## About
-Browse your emoji by name. It translate your plain text into emoji.
+Browse your emoji. It translate your emoji into plain text.
 * here is the link https://wn9yx9.csb.app/
 
 ### How it works
-* Enter the emoji name, or click on any emoji name.
-* The emoji will shown below the search bar.<br/>
+* Enter the emoji as input in textbox, or click on any emoji.
+* The emoji meaning will shown below the search bar.<br/>
 
    ![image](https://user-images.githubusercontent.com/110299602/208718229-3fe6d188-335c-484a-81d1-cfb9a9f2b562.png)
 
