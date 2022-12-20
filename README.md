@@ -9,10 +9,10 @@ Browse your emoji by name. It translate your plain text into emoji.
 * Enter the emoji name, or click on any emoji name.
 * The emoji will shown below the search bar.<br/>
 
-   ![image](https://user-images.githubusercontent.com/110299602/208474408-3d6161a0-8c7d-4a64-9a18-103b25c37106.png)
+   ![image](https://user-images.githubusercontent.com/110299602/208718229-3fe6d188-335c-484a-81d1-cfb9a9f2b562.png)
 
 * If emoji is not in the database then it will show "sorry, it's not in our data". </br>
 
-   ![image](https://user-images.githubusercontent.com/110299602/208474214-64f4ee65-9d90-4f79-9984-20132ac35751.png)
+   ![image](https://user-images.githubusercontent.com/110299602/208718633-005e3a94-321b-4e5e-bdfe-3bb707291c8f.png)
 
 
